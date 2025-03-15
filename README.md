@@ -38,8 +38,8 @@
     <p>Follow these steps to use the script:</p>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/yourusername/ddos-attack-simulator.git
-cd ddos-attack-simulator</code></pre>
+            <pre><code>git clone https://github.com/Adresatov1998/Beta-DDoS.git
+cd Beta-DDoS</code></pre>
         </li>
         <li>Ensure you have Python 3 and all the necessary modules installed.</li>
         <li>Run the script:
@@ -59,7 +59,8 @@ cd ddos-attack-simulator</code></pre>
 
 <section>
     <h2>Sample Output</h2>
-    <pre><code>Attack started: 2025-03-15 10:00:00<br>
+    <pre><code>Attack started: 2025-03-15 10:00:00
+<br>
   BBBBB   EEEEE  TTTTTТТ   AAAA      DDDD    DDDD    OOO   SSSSS
   B    B  E         T     A    A     D   D   D   D   O   O  S
   BBBBB   EEEE      T     AAAAAA     D   D   D   D   O   O  SSSS
@@ -96,6 +97,3 @@ Attack finished!</code></pre>
         <p><strong>Performing DDoS attacks against unauthorized systems is a criminal offense.</strong> The code is provided solely for educational purposes and for testing on your own systems.</p>
     </div>
 </section>
-
-</body>
-</html>
