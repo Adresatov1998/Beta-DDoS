@@ -8,7 +8,7 @@
 <body>
 
 <header>
-    <h2>Скрипт для DDoS-атаки</h2>
+    #Beta-DDoS
 </header>
 
 <section>
