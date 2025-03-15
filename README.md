@@ -5,52 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        section {
-            padding: 20px;
-            margin: 10px;
-            background-color: #fff;
-            border-radius: 8px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-            font-family: monospace;
-            white-space: pre-wrap;
-        }
-        code {
-            font-family: monospace;
-            color: #d9534f;
-        }
-        .important {
-            color: #d9534f;
-            font-weight: bold;
-        }
-        .note {
-            background-color: #f8f8f8;
-            padding: 10px;
-            border-left: 5px solid #5bc0de;
-            margin-bottom: 20px;
-        }
-    </style>
 </head>
 <body>
 
