@@ -59,13 +59,13 @@ cd ddos-attack-simulator</code></pre>
 
 <section>
     <h2>Sample Output</h2>
-    <pre><code>Attack started: 2025-03-15 10:00:00
+    <pre><code>Attack started: 2025-03-15 10:00:00<br>
   BBBBB   EEEEE  TTTTTТТ   AAAA      DDDD    DDDD    OOO   SSSSS
   B    B  E         T     A    A     D   D   D   D   O   O  S
   BBBBB   EEEE      T     AAAAAA     D   D   D   D   O   O  SSSS
   B    B  E         T     A    A     D   D   D   D   O   O     S
   BBBBB   EEEEE     T     A    A     DDDD    DDDD    OOO   SSSSS
-
+<br>
 Author   : Adresatov
 TEAM     : Collapse
 
