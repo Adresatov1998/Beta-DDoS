@@ -8,7 +8,7 @@
 <body>
 
 <header>
-    #Beta-DDoS
+    <h1>Beta-DDoS</h1>
 </header>
 
 <section>
