@@ -1,4 +1,3 @@
-# Beta-DDoS
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -9,7 +8,7 @@
 <body>
 
 <header>
-    <h1>Скрипт для DDoS-атаки (демонстрация)</h1>
+    <h2>Скрипт для DDoS-атаки</h2>
 </header>
 
 <section>
